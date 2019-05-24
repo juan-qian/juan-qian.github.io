@@ -13,6 +13,8 @@ navbar:
       href: research.html
     - text: "Teaching"
       href: teaching.html
+    - text: "中文版"
+      href: zh_cn.html
   right:
     - icon: fa-envelope fa-lg
       href: https://polisci.wisc.edu/people/graduate-students/jingyuan-juan-qian

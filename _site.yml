@@ -1,0 +1,27 @@
+name: "Juan Qian"
+title: "PhD Student at UW-Madison"
+description: |
+output_dir: "_site"
+navbar:
+  title: "Juan (Jingyuan) Qian"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Bio"
+      href: about.html
+    - text: "Research"
+      href: research.html
+    - text: "Teaching"
+      href: teaching.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: https://polisci.wisc.edu/people/graduate-students/jingyuan-juan-qian
+    - icon: fa-github fa-lg
+      href: http://github.com/juan-qian
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/juan-j-qian-09397b2a/
+
+output:
+  html_document:
+    theme: flatly
+    css: 'styles.css'

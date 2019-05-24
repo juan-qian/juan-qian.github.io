@@ -1,7 +1,7 @@
 name: "Juan Qian"
 title: "PhD Student at UW-Madison"
 description: |
-output_dir: "_site"
+output_dir: "."
 navbar:
   title: "Juan (Jingyuan) Qian"
   left:

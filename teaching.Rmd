@@ -1,30 +1,38 @@
 ---
-title: "Teaching"
-author: "Juan Qian"
-date: "2019/5/24"
+title: "Teaching Experience"
 output: html_document
 ---
+Previously, I served as a Teaching Assistant or a sole instructor for various classes. I enjoyed helping my students succeed in their classes. All the material I prepared for my teaching sessions are **made public**.
+<br> <br>
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+### As Teaching Assistant/Associate
 
-## R Markdown
+**University of Wisconsin-Madison**, Madison, WI <br>
+[POLI120: Politics Around the World](https://polisci.wisc.edu/sites/polisci.wisc.edu/files/documents/syllabi/PS%20120%20Syllabus-%20Nils%20Ringe_0.pdf) (Fall 2018; Spring 2019) <br>
+Teaching Assistant for Dr. Nils Ringe <br>
+**Download**: Discussion Handouts
+<br>
+<br>
+**Georgetown University**, Washington, DC <br>
+[PPOL649: Intermediate Macroeconomics](/teaching_files/PPOL649_syllabus.pdf) (Spring 2017) <br>
+Teaching Associate for Dr. Rakia Moalla-Fetini <br>
+**Download**: Problem Sets; Discussion Handouts
+<br>
+<br>
+**Macalester College**, St. Paul, MN <br>
+[ASIA378: War Crimes and Memory in East Asia](https://catalog.macalester.edu/preview_course.php?catoid=21&coid=112343) (Spring 2013) <br>
+Teaching Assistant for Dr. Yue-him Tam
+<br> <br>
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+### As Sole Instructor
+**Veritas Academy**, Beijing, China <br>
+[B1: Introduction to Political Economy](/teaching_files/PPOL649_syllabus.pdf) (Summer 2018) <br>
+**Download**: Lecture Notes 
+<br>
+<br>
+<br>
+<center> Copyright © Juan Qian, 2019
+<center>  I built my website with <img src="images/rstudio-logo.png" width="20">. You should [try it](https://rmarkdown.rstudio.com/) too.
 
-```{r cars}
-summary(cars)
-```
 
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

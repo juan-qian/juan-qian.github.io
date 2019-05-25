@@ -1,5 +1,5 @@
 ---
-title: "Teaching Experience"
+title: "Teaching"
 output: html_document
 ---
 Previously, I served as a Teaching Assistant or a sole instructor for various classes. I enjoyed helping my students succeed in their classes. All the material I prepared for my teaching sessions are **made public**.
@@ -10,13 +10,13 @@ Previously, I served as a Teaching Assistant or a sole instructor for various cl
 **University of Wisconsin-Madison**, Madison, WI <br>
 [POLI120: Politics Around the World](https://polisci.wisc.edu/sites/polisci.wisc.edu/files/documents/syllabi/PS%20120%20Syllabus-%20Nils%20Ringe_0.pdf) (Fall 2018; Spring 2019) <br>
 Teaching Assistant for Dr. Nils Ringe <br>
-**Download**: Discussion Handouts
+**<img src="images/download.png" width="20"> Download**: [Discussion Handouts](poli120.html)
 <br>
 <br>
 **Georgetown University**, Washington, DC <br>
 [PPOL649: Intermediate Macroeconomics](/teaching_files/PPOL649_syllabus.pdf) (Spring 2017) <br>
 Teaching Associate for Dr. Rakia Moalla-Fetini <br>
-**Download**: Problem Sets; Discussion Handouts
+**<img src="images/download.png" width="20"> Download**: Problem Sets; Study Guide
 <br>
 <br>
 **Macalester College**, St. Paul, MN <br>
@@ -28,7 +28,7 @@ Teaching Assistant for Dr. Yue-him Tam
 ### As Sole Instructor
 **Veritas Academy**, Beijing, China <br>
 [B1: Introduction to Political Economy](/teaching_files/PPOL649_syllabus.pdf) (Summer 2018) <br>
-**Download**: Lecture Notes 
+**<img src="images/download.png" width="20"> Download**: [Lecture Notes](veritas2018.html) 
 <br>
 <br>
 <br>

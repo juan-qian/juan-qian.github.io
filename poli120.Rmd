@@ -1,0 +1,34 @@
+---
+title: ''
+output: html_document
+---
+<br>
+
+### PS120: Politics Around the World
+
+These are the handouts I created to guide my TA discussion sections for UW-Madison's "PS120: Politics Around the World" class. I welcome feedback and suggestions to improve my teaching in the future.
+
+1. [Discussion 1: States and Institutions](teaching_files/ps1.pdf)
+<br> <br>
+2. [Discussion 2: Empirical Research Methods](teaching_files/ps2.pdf)
+<br> <br>
+3. [Discussion 3: Parliamentary Democracy: United Kingdom](teaching_files/ps3.pdf)
+<br> <br>
+4. [Discussion 4: Essay Writing Workshop](teaching_files/ps4.pdf)
+<br> <br>
+5. [Discussion 5: Alternative Parliamentary Systems: Germany, South Africa](teaching_files/ps5.pdf)
+<br> <br>
+6. [Discussion 6: Democratization and Democratic Consolidation](teaching_files/ps6.pdf)
+<br> <br>
+7. [Discussion 7: Authoritarian Regimes: Russia and China](teaching_files/ps7.pdf)
+<br> <br>
+8. [Discussion 8: Transitional Democracy: Mexico](teaching_files/ps8.pdf)
+<br> <br>
+
+<img src="images/download.png" width="20"> Back to [Teaching](teaching.html) Page
+<br>
+<br>
+<br>
+<br>
+<center> Copyright © Juan Qian, 2019
+<center>  I built my website with <img src="images/rstudio-logo.png" width="30">. You should [try it](https://rmarkdown.rstudio.com/) too.

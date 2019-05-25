@@ -1,12 +1,32 @@
 ---
 title: "Research"
-author: "Juan Qian"
-date: "2019/5/23"
 output: html_document
 ---
-To be filled later
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
+My research interests are identities and narratives in politics. Theoretically, I am interested in how political identities are formed, evolved over time, transmitted through narratives, and spreaded via social networks. Empirically, I am interested in China and would like to focus on the historical and present-day origins of Chinese nationalism and Chinese attitudes towards ethnic minorities.
+<br>
 
+### <img src="images/working_paper.png" width="25"> Working Papers
+1. Constructing Islamophobia: Historical Accounts of Ethnic Conflicts and Representation of Muslims in Modern China.
+<br>
+2. The Economic Origins of Warlordism: The Example of China.
+<br><br>
+
+### <img src="images/journal.png" width="25"> Peer-Reviewed Journals
+1. Nirosha Mahendraratnam, Corinna Sorenson, Elizabeth Richardson, Gregory Daniel, Lisabeth Buelt, Kimberly Westrich, **Jingyuan Qian**, Hilary Campbell, Mark McClellan, and Robert W. Dubois. 2018. [“The Prevalence of Value-Based Arrangements.”](https://ajmc.s3.amazonaws.com/_media/_pdf/AJMC_02_2019_Mahendraratnam%20final.pdf) *American Journal of Managed Care*. 25(2): 70-76.
+<br>
+
+### <img src="images/report.png" width="30"> Policy Reports (pre-doctoral work)
+I co-authored the following health policy papers with former colleagues at Duke-Margolis Center for Health Policy:
+
+1. [“Overcoming the Legal and Regulatory Hurdles to Value-Based Payment Arrangements for Medical Products.”](https://healthpolicy.duke.edu/sites/default/files/atoms/files/advancing_vbps_for_transformative_therapies_finalfordistribution_14may2019.pdf) With Gregory Daniel et al. 2017. Robert J. Margolis Center for Health Policy, Duke University.
+<br>
+2. [“The Value-based Strategies for Encouraging New Development of Antimicrobial Drugs.”](https://healthpolicy.duke.edu/sites/default/files/atoms/files/value-based_strategies_for_encouraging_new_development_of_antimicrobial_drugs.pdf) With Gregory Danielet al. 2017. Robert J. Margolis Center for Health Policy, Duke University.
+<br> 
+3. [“Tracking the Progress of Economic Incentives for Antimicrobial Drug Development in the U.S. and Across the Globe.”](https://healthpolicy.duke.edu/sites/default/files/atoms/files/Antimicrobial%20Economic%20Incentives%20Landscape%20Analysisv2.pdf) With Gregory Daniel et al. 2016. Robert J. Margolis Center for Health Policy, Duke University.
+
+<br>
+<br>
+<br>
+<center> Copyright © Juan Qian, 2019
+<center>  I built my website with <img src="images/rstudio-logo.png" width="20">. You should [try it](https://rmarkdown.rstudio.com/) too.

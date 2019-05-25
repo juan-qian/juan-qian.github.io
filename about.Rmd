@@ -46,7 +46,7 @@ Before deciding to pursue an academic career, I had tried different career optio
 <br>
 <br>
 <center> Copyright © Juan Qian, 2019
-<center>  I built my website with <img src="images/rstudio-logo.png" width="20">. You should [try it](https://rmarkdown.rstudio.com/) too.
+<center>  I built my website with <img src="images/rstudio-logo.png" width="30">. You should [try it](https://rmarkdown.rstudio.com/) too.
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)

@@ -4,13 +4,13 @@ fontsize: 12pt
 ---
 <br>
 <img src="juan.jpg" style="width:35%; margin-right: 20px" align="left">
-Hello! My name is Juan Qian, and I am a PhD student in the [Political Science Department](https://polisci.wisc.edu/) at [University of Wisconsin-Madison](https://www.wisc.edu/). My major fields are comparative politics and methodology. 
+Welcome. My name is Juan Qian, and I am a PhD student in the [Political Science Department](https://polisci.wisc.edu/) at [University of Wisconsin-Madison](https://www.wisc.edu/). My major fields are comparative politics and methodology. 
 
 My research interests are identities and narratives in politics. Theoretically, I am interested in how political identities are formed, evolved over time, transmitted through narratives, and spreaded via social networks. My current work focuses on developing a new class of formal model to capture the role of political identity. Empirically, I am interested in the origins of nationalism in modern China.
 
-I am originally from [Nanjing, China](https://www.wikipedia.org/Nanjing). Before coming to Wisconsin, I graduated from [Macalester College](http://www.macalester.edu) with a B.A. in political science in 2014 and obtained my Master of Public Policy from [Georgetown University](http://www.georgetown.edu) in 2016.
+Before coming to Wisconsin, I graduated from [Macalester College](http://www.macalester.edu) with a B.A. in political science in 2014 and obtained my Master of Public Policy from [Georgetown University](http://www.georgetown.edu) in 2016. Between 2016 and 2018, I worked as a Senior Research Assistant at Duke University's [Margolis Center](http://healthpolicy.duke.edu).
 
-This website contains information about my [personal background](about.html), [research work](research.html), [teaching experience](teaching.html), and an updated [CV](cv.pdf). If you want to reach me in person, please do not hesitate to [send me an email](mailto:jqian3@wisc.edu).
+I welcome any advice and feedback about my research work. If you would like to reach me in person, please do not hesitate to [send me an email](mailto:jqian3@wisc.edu).
 <br>
 <br>
 <br>

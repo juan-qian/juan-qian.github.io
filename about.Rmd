@@ -3,7 +3,8 @@ title: "Biography"
 description: |
 ---
 
-Before deciding to pursue an academic career, I had tried different career options and worked in various professions. My previous work experience spans business consulting, government service, and public policy research. I believe that ["street smart"](https://www.urbandictionary.com/define.php?term=street%20smarts) -- intelligence gained outside of school -- are just as useful as "book smart". Full [CV](cv.pdf) here.
+
+#### Full [CV](cv.pdf) here.
 
 ### <img src="images/school.png" width="30"> Education
 \ \ \ \ **University of Wisconsin-Madison**, Madison, WI, 2018-Present <br>

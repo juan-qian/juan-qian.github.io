@@ -8,15 +8,13 @@ Previously, I served as a Teaching Assistant or a sole instructor for various cl
 ### As Teaching Assistant/Associate
 
 **University of Wisconsin-Madison**, Madison, WI <br>
-[POLI120: Politics Around the World](https://polisci.wisc.edu/sites/polisci.wisc.edu/files/documents/syllabi/PS%20120%20Syllabus-%20Nils%20Ringe_0.pdf) (Fall 2018; Spring 2019) <br>
-Teaching Assistant for Dr. Nils Ringe <br>
-**<img src="images/download.png" width="20"> Download**: [Discussion Handouts](poli120.html)
+[POLI120: Politics Around the World](https://polisci.wisc.edu/sites/polisci.wisc.edu/files/documents/syllabi/PS%20120%20Syllabus-%20Nils%20Ringe_0.pdf) (Fall 2018; [Spring 2019](poli120.html); [Fall 2019](poli120_fall19.html)) <br>
+Teaching Assistant for Dr. Nils Ringe and Dr. Steven Brooke
 <br>
 <br>
 **Georgetown University**, Washington, DC <br>
 [PPOL649: Intermediate Macroeconomics](/teaching_files/PPOL649_syllabus.pdf) (Spring 2017) <br>
-Teaching Associate for Dr. Rakia Moalla-Fetini <br>
-**<img src="images/download.png" width="20"> Download**: Problem Sets; Study Guide
+Teaching Associate for Dr. Rakia Moalla-Fetini
 <br>
 <br>
 **Macalester College**, St. Paul, MN <br>

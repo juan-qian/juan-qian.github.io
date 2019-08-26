@@ -4,7 +4,7 @@ output: html_document
 ---
 <br>
 
-### PS120: Politics Around the World
+### PS120: Politics Around the World (Archived, 2018-19)
 
 These are the handouts I created to guide my TA discussion sections for UW-Madison's "PS120: Politics Around the World" class. I welcome feedback and suggestions to improve my teaching in the future.
 

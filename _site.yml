@@ -25,5 +25,5 @@ navbar:
 
 output:
   html_document:
-    theme: flatly
+    theme: simplex
     css: 'styles.css'

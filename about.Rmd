@@ -8,10 +8,10 @@ description: |
 
 ### <img src="images/school.png" width="30"> Education
 \ \ \ \ **University of Wisconsin-Madison**, Madison, WI, 2018-Present <br>
-\ \ \ \ PhD in Political Science, **Major Fields:** Comparative Politics/Methodology <br>
+\ \ \ \ PhD in Political Science <br>
 
 \ \ \ \ **Georgetown University**, Washington, DC, 2016-2018 <br>
-\ \ \ \ Master of Public Policy, **Specialization**: Economic Policy <br>
+\ \ \ \ Master of Public Policy <br>
 
 \ \ \ \ **Macalester College**, Saint Paul, MN, 2010-2014 <br>
 \ \ \ \ Bachelor of Arts, Political Science and History <br>

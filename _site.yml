@@ -13,6 +13,8 @@ navbar:
       href: research.html
     - text: "Teaching"
       href: teaching.html
+    - text: "CV"
+      href: cv.pdf
     - text: "中文版"
       href: zh_cn.html
   right:

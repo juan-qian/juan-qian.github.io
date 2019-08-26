@@ -6,7 +6,7 @@ output: html_document
 
 ### 个人简历
 
-钱静远，江苏南京人，现为威斯康星大学麦迪逊分校政治系博士研究生。本科就读于明尼苏达州[默世达学院(Macalester College)](https://www.macalester.edu)并获得政治学学士学位，硕士就读于[乔治城大学(Georgetown University)](https://www.georgetown.edu)并取得公共政策硕士学位。主要研究方向为比较政治学(Comparative Politics)和政治学实证模型(Formal Theory)，尤其对民族身份认同与民族主义感兴趣。
+钱静远是威斯康星大学麦迪逊分校政治系博士研究生。本科就读于明尼苏达州[默世达学院(Macalester College)](https://www.macalester.edu)并获得政治学学士学位，硕士就读于[乔治城大学(Georgetown University)](https://www.georgetown.edu)并取得公共政策硕士学位。主要研究方向为比较政治学(Comparative Politics)和政治学实证模型(Formal Theory)，尤其对民族身份认同与民族主义感兴趣。
 <br><br>
 
 ### 译著

@@ -25,7 +25,7 @@ output: html_document
 <br>
 <br>
 <center> 版权所有 © 钱静远, 2019
-<center>  本网站用 <img src="images/rstudio-logo.png" width="30">制作。我推荐用 [R Markdown](https://rmarkdown.rstudio.com/) 制作个人网站.
+<center>  本网站用 <img src="images/rstudio-logo.png" width="30">制作。如果觉得好看，我推荐用 [R Markdown](https://rmarkdown.rstudio.com/) 制作个人网站.
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)

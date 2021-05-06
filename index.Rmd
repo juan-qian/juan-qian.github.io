@@ -6,7 +6,7 @@ fontsize: 12pt
 <img src="juan.jpg" style="width:30%; margin-right: 20px" align="left">
 Welcome. My name is Juan Qian, and I am a PhD student in the [Political Science Department](https://polisci.wisc.edu/) at [University of Wisconsin-Madison](https://www.wisc.edu/). My major fields are comparative politics and methodology. 
 
-My research interests are identities and narratives in politics. Theoretically, I am interested in how political identities are formed, evolved over time, transmitted through narratives, and spreaded via social networks. My current work focuses on developing a new class of formal model to capture the role of political identity. Empirically, I am interested in the origins of nationalism in modern China.
+My research focuses on the historical political economy of China. Broadly speaking, I am interested in three topics: (1) the evolution of Chinese political institutions over time; (2) the long-term impact of historical events on contemporary behaviors, attitudes, and institutions; (3) the relationship and tension between the Party and the State.
 
 Before coming to Wisconsin, I graduated from [Macalester College](http://www.macalester.edu) with a B.A. in political science in 2014 and obtained my Master of Public Policy from [Georgetown University](http://www.georgetown.edu) in 2016. Between 2016 and 2018, I worked as a Senior Research Assistant at Duke University's [Margolis Center](http://healthpolicy.duke.edu).
 
@@ -18,7 +18,7 @@ I welcome any advice and feedback about my research work. If you would like to r
 <br>
 <br>
 <br>
-<center> Copyright © Juan Qian, 2019
+<center> Copyright © Juan Qian, 2021
 <center>  I built my website with <img src="images/rstudio-logo.png" width="30">. You should [try it](https://rmarkdown.rstudio.com/) too.
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)

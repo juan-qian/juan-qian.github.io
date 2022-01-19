@@ -1,16 +1,17 @@
 ---
-title: "About Juan Qian"
+title: "Juan Qian"
 fontsize: 12pt
 ---
 <br>
 <img src="juan.jpg" style="width:30%; margin-right: 20px" align="left">
 Welcome. My name is Juan Qian, and I am a PhD student in the [Political Science Department](https://polisci.wisc.edu/) at [University of Wisconsin-Madison](https://www.wisc.edu/). My major fields are comparative politics and methodology. 
 
-My research focuses on the historical political economy of China. Broadly speaking, I am interested in three topics: (1) the evolution of Chinese political institutions over time; (2) the long-term impact of historical events on contemporary behaviors, attitudes, and institutions; (3) the relationship and tension between the Party and the State.
+My research focuses on the statebuilding of non-democratic regimes. My research agenda is consisted of three separate yet interrelated research questions: (1) how do rising autocrats induce and retain the compliance of their subordinates during power consolidation? (2) how do certain historical events shape contemporary behaviors and institutions in the long run? (3) in the specific context of China, when will tension arise between Party and state institutions? 
 
-Before coming to Wisconsin, I graduated from [Macalester College](http://www.macalester.edu) with a B.A. in political science in 2014 and obtained my Master of Public Policy from [Georgetown University](http://www.georgetown.edu) in 2016. Between 2016 and 2018, I worked as a Senior Research Assistant at Duke University's [Margolis Center](http://healthpolicy.duke.edu).
+My dissertation project, titled "Statebuilding by Campaign," explore the role of Mao's mass-mobilized political campaigns in the 1950s and 1960s on the formation and consolidation of the Chinese party-state. I have been collecting and using a wide variety of archival data to understand how Mao's mass campaigns contributed to the CCP's statebuilding goals.
 
-I welcome any advice and feedback about my research work. If you would like to reach me in person, please do not hesitate to [send me an email](mailto:jqian3@wisc.edu).
+Please find my [CV](cv.pdf) here. 
+
 <br>
 <br>
 <br>
@@ -19,7 +20,7 @@ I welcome any advice and feedback about my research work. If you would like to r
 <br>
 <br>
 <center> Copyright © Juan Qian, 2021
-<center>  I built my website with <img src="images/rstudio-logo.png" width="30">. You should [try it](https://rmarkdown.rstudio.com/) too.
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 

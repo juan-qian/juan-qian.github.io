@@ -1,53 +1,10 @@
 ---
-title: "Biography"
+title: "Research"
 description: |
 ---
 
 
 #### Full [CV](cv.pdf) here.
-
-### <img src="images/school.png" width="30"> Education
-\ \ \ \ **University of Wisconsin-Madison**, Madison, WI, 2018-Present <br>
-\ \ \ \ PhD in Political Science <br>
-
-\ \ \ \ **Georgetown University**, Washington, DC, 2016-2018 <br>
-\ \ \ \ Master of Public Policy <br>
-
-\ \ \ \ **Macalester College**, Saint Paul, MN, 2010-2014 <br>
-\ \ \ \ Bachelor of Arts, Political Science and History <br>
-
-### <img src="images/research.png" width="30"> Research
-\ \ \ \ **Duke University**, Durham, NC, July 2016 -- May 2018 <br>
-\ \ \ \ Associate in Research, [Duke-Margolis Center](https://healthpolicy.duke.edu) at Fuqua School of Business
-
-\ \ \ \ **Macalester College**, Saint Paul, MN, Mar 2013-Apr 2014 <br>
-\ \ \ \ Research Assistant for Dr. Jamie Monson, [“Africa’s Freedom Railway”](http://www.iupress.indiana.edu/product_info.php?products_id=655576), January -- April 2014 <br>
-\ \ \ \ Research Assistant for Dr. Yue-Him Tam, [“Asian War Crimes Archive”](https://www.macalester.edu/~tam/HIST194%20War%20Crimes/Annotated%20Bibliography%20of%20Books%20and%20Videos.html), Mar-Aug 2013 <br>
-
-
-### <img src="images/government.png" width="30"> Public Policy
-\ \ \ \ **American Enterprise Institute**, Washington, DC, January -- May 2016 <br>
-\ \ \ \ Research Intern, Economic Studies
-
-\ \ \ \ **Minnesota Governor's Office**, Saint Paul, MN May -- August 2013 <br>
-\ \ \ \ Communications Intern, New Media
-
-\ \ \ \ **Minnesota Senate**, Saint Paul, MN, December 2012 -- May 2013 <br>
-\ \ \ \ Legislative Aide, Office of [Senator Found Hawj](https://www.senate.mn/members/member_bio.php?member_id=1213)
-
-
-### <img src="images/consulting.png" width="30"> Consulting
-\ \ \ \ **Navigant Consulting**, Washington, DC, May 2015 -- December 2015 <br>
-\ \ \ \ Project Employee, Center for Healthcare Policy and Analysis (see [here](Publications/portfolio.pdf) for a sample project)
-
-\ \ \ \ **European Union Chamber of Commerce in China**, Shanghai, China, May 2014 -- August 2014 <br>
-\ \ \ \ Assistant to Government Affairs and Working Groups
-
-<br>
-<br>
-<br>
-<center> Copyright © Juan Qian, 2019
-<center>  I built my website with <img src="images/rstudio-logo.png" width="30">. You should [try it](https://rmarkdown.rstudio.com/) too.
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)

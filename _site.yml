@@ -7,7 +7,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Bio"
+    - text: "Short Bio"
       href: about.html      
     - text: "Research"
       href: research.html

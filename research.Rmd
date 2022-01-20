@@ -30,6 +30,8 @@ My dissertation will propose a theoretical framework for understanding those que
 
 **Summary:** In this paper, I show that narratives of 19th-century historical conflicts between the Han Chinese and Muslims have been deployed to justify anti-Muslim sentiment and practices in modern and contemporary Northwest China. My study analyses Han Chinese narratives during and after the Northwest Muslim Rebellion -- the largest ethnic conflict in nineteenth-century China. The historical narratives about the rebellion have been passed down inter-generationally and have been reiterated and reconstructed to fuel contemporary bias against Muslims in the twentieth century and beyond. My study contributes to the debate of Chinese Islamophobia by revealing how narratives of ethnic conflicts could help legitimize hostility against Muslims in modern-day China.
 
+**TL;DR:** People who reside in places where Muslims rebelled in 19th century tend to have a more negative feeling of Muslims in modern days.
+
 <br>
 
 #### Other Working Papers
@@ -38,9 +40,12 @@ My dissertation will propose a theoretical framework for understanding those que
 
 **Summary:** One puzzle that haunts comparative politics scholars is the variation in the intensity of state coercion in authoritarian regimes. Why are some bureaucrats more heavy-handed in their use of force than others? In this paper, we propose a novel theory to explain the unevenness of bureaucratic compliance in coercive policy implementation. We argue that bureaucrats whose backgrounds are not trusted by the leader tend to implement repressive tasks more fervently in order to credibly signal their loyalty to the autocrat. We provide evidence for our theory using a unique dataset from China's Anti-Rightist Campaign (1957-1958), a coercive campaign launched by Chairman Mao Zedong against alleged critics of his rule. We find that officials who were former undercover partisans, a faction considered untrustworthy by Mao, tended to prosecute a larger fraction of alleged “rightists” in their jurisdictions and assign harsher penalties. Our study contributes to the existing literature by revealing the underlying motivation of coercive agents.
 
+**TL;DR:** Officials whose personal history before 1949 drew suspicion from Chairman Mao tended to behave more radically in Mao's political campaigns to openly display their loyalty.
+
 <br>
 
 "Who Succeed Corrupt Officials? Local Leadership Replacement during China’s Anti-Corruption Campaign (2013–2020)" with Feng Tang.
 
 **Summary:** The Anti-Corruption Campaign, launched by President Xi Jinping in late 2012, has been one of the most far-reaching bureaucratic overhaul in modern Chinese history. How does the Anti-Corruption Campaign shape the pattern of personnel appointment at the local level? In particular, what type of officials are more likely to be appointed to replace exlocal leaders removed due to corruption? In this paper, we argue that a major selection criteria for successors to corrupt officials is local detachment. Because those officials are often tasked with eliminating their predecessor’s influence and strengthening local control for the upper-level authority, they are expected to be less embedded in local power dynamics and free from nepotism and conflict of interests. Using an original dataset of all Party secretaries and mayors from China’s 287 prefecture-level cities between 2013 and 2020, we show that officials who replace corrupt local leaders are much less likely to be chosen from the same locality compared to officials whose predecessors were transferred, promoted, or retired. In addition, successors to corrupt local leaders typically spend much shorter time serving in the locality in the past, and are more likely to have held previous positions in provincial- and central-level bureaucracies. Our study sheds new light on how Xi’s Anti-Corruption Campaign reshuffles the central-local relations in China.
 
+**TL;DR:** When a local official was expelled due to corruption, the vacuum is more likely to be filled by successors who have little local connection.

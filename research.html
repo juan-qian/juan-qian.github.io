@@ -1,36 +1,50 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
 <title>Research</title>
 
+<script src="site_libs/header-attrs-2.10/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/simplex.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/lumen.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -43,32 +57,7 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
@@ -80,13 +69,8 @@ h6 {
   margin-left: auto;
   margin-right: auto;
 }
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
-}
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -100,40 +84,13 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 41px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 46px;
-  margin-top: -46px;
-}
-.section h2 {
-  padding-top: 46px;
-  margin-top: -46px;
-}
-.section h3 {
-  padding-top: 46px;
-  margin-top: -46px;
-}
-.section h4 {
-  padding-top: 46px;
-  margin-top: -46px;
-}
-.section h5 {
-  padding-top: 46px;
-  margin-top: -46px;
-}
-.section h6 {
-  padding-top: 46px;
-  margin-top: -46px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -161,7 +118,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -173,7 +130,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -184,10 +141,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -199,7 +169,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -235,6 +204,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -246,18 +216,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -290,16 +248,13 @@ $(document).ready(function () {
   <a href="index.html">Home</a>
 </li>
 <li>
-  <a href="about.html">Bio</a>
-</li>
-<li>
   <a href="research.html">Research</a>
 </li>
 <li>
   <a href="teaching.html">Teaching</a>
 </li>
 <li>
-  <a href="zh_cn.html">中文版</a>
+  <a href="contact.html">Contact</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -326,7 +281,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -335,33 +290,33 @@ $(document).ready(function () {
 </div>
 
 
-<p>My research interests are identities and narratives in politics. Theoretically, I am interested in how political identities are formed, evolved over time, transmitted through narratives, and spreaded via social networks. Empirically, I am interested in China and would like to focus on the historical and present-day origins of Chinese nationalism and Chinese attitudes towards ethnic minorities. <br></p>
-<div id="working-papers" class="section level3">
-<h3><img src="images/working_paper.png" width="25"> Working Papers</h3>
-<ol style="list-style-type: decimal">
-<li>Constructing Islamophobia: Historical Accounts of Ethnic Conflicts and Representation of Muslims in Modern China. <br></li>
-<li>The Economic Origins of Warlordism: The Example of China. <br><br></li>
-</ol>
+<p><br></p>
+<div id="research-statement-statebuilding-defined-as-collective-choice" class="section level3">
+<h3>Research Statement: Statebuilding, defined as collective choice</h3>
+<p><img src="maoposter.jpeg" style="width:23%; margin-right: 20px" align="left"> My understanding of statebuilding is influenced by <a href="https://en.wikipedia.org/wiki/Elinor_Ostrom">Elinor Ostrom’s</a> public choice theory. Statebuilding is essentially the establishment and consolidation of authority. A ruler’s authority, however, cannot arise out of thin air, but must depend on the continued consent and complicity of their subjects. In this sense, I understand statebuilding as a rational, collective choice made by the ruler, subordinate elites, and ordinary citizens together. What determines the outcome of statebuilding, hence, is the ruler’s ability to design proper incentives and restraints to induce the compliance of their subordinates to the established order.</p>
+<p>My research agenda is built upon a strand of existing scholarly works. Works that directly inspire my research agenda include: <a href="https://www.econlib.org/library/Buchanan/buchCv3.html">Buchanan and Tullock (1965)</a>; <a href="https://contemporarythinkers.org/samuel-huntington/book/authoritarian-politics-in-modern-society-the-dynamics-of-established-one-party-systems/">Huntington and Moore eds. (1970)</a>; <a href="https://www.cambridge.org/core/books/governing-the-commons/7AB7AE11BADA84409C34815CC288CD79">Ostrom (1990)</a>; <a href="https://datascience.iq.harvard.edu/files/gov2126/files/olson_1993.pdf">Olson (1993)</a>; <a href="https://economics.mit.edu/files/4121">Acemoglu and Robinson (2001)</a>; <a href="https://mitpress.mit.edu/books/logic-political-survival">Bruce Bueno de Mesquita et al. (2003)</a>; <a href="https://journals.sagepub.com/doi/10.1177/0010414007305817">Ghandi and Przeworski (2007)</a>; <a href="https://journals.sagepub.com/doi/10.1177/0010414007313124">Magaloni (2008)</a>; <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1542-4774.2011.01033.x">Egorov and Sonin (2011)</a>; <a href="https://www.cambridge.org/core/books/politics-of-authoritarian-rule/7F78A8828A5714F0BE74E44A90A44868">Svolik (2012)</a>; <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12122">Gehlbach and Simpser (2015)</a>, among many others.</p>
+<p>What my research differs from previous works, however, is that I focus on the <em>emergence</em> and <em>stabilization</em> of autocracies at the early stages of power consolidation. Just like democratization can succeed or fail, <em>autocratization</em> can also yield diverging outcomes. Why some aspiring rulers successfully consolidate their rule, while others fall in disgrace, is the focus of my research program.</p>
+<p><br> <br></p>
+<div id="dissertation-statebuilding-by-campaign-power-consolidation-in-maos-china" class="section level4">
+<h4>Dissertation: “Statebuilding by Campaign: Power Consolidation in Mao’s China”</h4>
+<p><img src="redsun.jpeg" style="width:25%; margin-right: 20px" align="right"> <strong>Summary</strong>: In the first three decades of the People’s Republic of China, Chairman Mao Zedong and the Chinese Communist Party (CCP) launched a series of mass-mobilized, coercive political campaigns aiming to alter China’s socioeconomic structure and eliminate alleged challengers of the regime. How have these campaigns shaped China’s political trajectory? My dissertation project will analyze the short- and long-term effects of Mao’s coercive political campaigns on various political actors. More specifically, I hope to answer the following questions: how could participation in coercive campaigns affect an official’s loyalty and dependence on the ruler? Did harsher implementation of those campaigns make them more or less reliant on the ruler later in their careers? Furthermore, what role did ordinary citizens play during Mao’s mass-mobilized campaigns? Was their participation involuntary and passive, or could they somehow leverage those campaigns to restrain local officials and advance their collective interests? Could the experience of mass mobilization pass down inter-generationally and shape the political participation patterns of contemporary Chinese citizens?</p>
+<p>My dissertation will propose a theoretical framework for understanding those questions, and will focus on three major campaigns in Maoist China – the Land Reform (1949 – 54), the Anti-Rightist Campaign (1957 – 59), and the Cultural Revolution (1966 – 76) – to validate my theory.</p>
+<p><br> <br></p>
 </div>
-<div id="peer-reviewed-journals" class="section level3">
-<h3><img src="images/journal.png" width="25"> Peer-Reviewed Journals</h3>
-<ol style="list-style-type: decimal">
-<li>Nirosha Mahendraratnam, Corinna Sorenson, Elizabeth Richardson, Gregory Daniel, Lisabeth Buelt, Kimberly Westrich, <strong>Jingyuan Qian</strong>, Hilary Campbell, Mark McClellan, and Robert W. Dubois. 2018. <a href="https://ajmc.s3.amazonaws.com/_media/_pdf/AJMC_02_2019_Mahendraratnam%20final.pdf">“The Prevalence of Value-Based Arrangements.”</a> <em>American Journal of Managed Care</em>. 25(2): 70-76. <br></li>
-</ol>
+<div id="other-peer-reviewed-articles" class="section level4">
+<h4>Other Peer-Reviewed Articles</h4>
+<p>“Historical Ethnic Conflicts and the Rise of Islamophobia in Modern China.” 2021. Forthcoming in <em>Ethnopolitics</em>. <a href="https://www.tandfonline.com/doi/full/10.1080/17449057.2021.2001954">[pdf]</a></p>
+<p><strong>Summary:</strong> In this paper, I show that narratives of 19th-century historical conflicts between the Han Chinese and Muslims have been deployed to justify anti-Muslim sentiment and practices in modern and contemporary Northwest China. My study analyses Han Chinese narratives during and after the Northwest Muslim Rebellion – the largest ethnic conflict in nineteenth-century China. The historical narratives about the rebellion have been passed down inter-generationally and have been reiterated and reconstructed to fuel contemporary bias against Muslims in the twentieth century and beyond. My study contributes to the debate of Chinese Islamophobia by revealing how narratives of ethnic conflicts could help legitimize hostility against Muslims in modern-day China.</p>
+<p><br></p>
 </div>
-<div id="policy-reports-pre-doctoral-work" class="section level3">
-<h3><img src="images/report.png" width="30"> Policy Reports (pre-doctoral work)</h3>
-<p>I co-authored the following health policy papers with former colleagues at Duke-Margolis Center for Health Policy:</p>
-<ol style="list-style-type: decimal">
-<li><a href="https://healthpolicy.duke.edu/sites/default/files/atoms/files/advancing_vbps_for_transformative_therapies_finalfordistribution_14may2019.pdf">“Overcoming the Legal and Regulatory Hurdles to Value-Based Payment Arrangements for Medical Products.”</a> With Gregory Daniel et al. 2017. Robert J. Margolis Center for Health Policy, Duke University. <br></li>
-<li><a href="https://healthpolicy.duke.edu/sites/default/files/atoms/files/value-based_strategies_for_encouraging_new_development_of_antimicrobial_drugs.pdf">“The Value-based Strategies for Encouraging New Development of Antimicrobial Drugs.”</a> With Gregory Danielet al. 2017. Robert J. Margolis Center for Health Policy, Duke University. <br></li>
-<li><a href="https://healthpolicy.duke.edu/sites/default/files/atoms/files/Antimicrobial%20Economic%20Incentives%20Landscape%20Analysisv2.pdf">“Tracking the Progress of Economic Incentives for Antimicrobial Drug Development in the U.S. and Across the Globe.”</a> With Gregory Daniel et al. 2016. Robert J. Margolis Center for Health Policy, Duke University.</li>
-</ol>
-<br> <br>
-<center>
-Copyright © Juan Qian, 2019
-<center>
-<p>I built my website with <img src="images/rstudio-logo.png" width="30">. You should <a href="https://rmarkdown.rstudio.com/">try it</a> too.</p>
+<div id="other-working-papers" class="section level4">
+<h4>Other Working Papers</h4>
+<p>“The Zeal of the Outgroup: Loyalty Signaling and Bureaucratic Compliance in China’s Anti-Rightist Campaign (1957–1958)” with Steve Bai. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3988399">[SSRN]</a></p>
+<p><strong>Summary:</strong> One puzzle that haunts comparative politics scholars is the variation in the intensity of state coercion in authoritarian regimes. Why are some bureaucrats more heavy-handed in their use of force than others? In this paper, we propose a novel theory to explain the unevenness of bureaucratic compliance in coercive policy implementation. We argue that bureaucrats whose backgrounds are not trusted by the leader tend to implement repressive tasks more fervently in order to credibly signal their loyalty to the autocrat. We provide evidence for our theory using a unique dataset from China’s Anti-Rightist Campaign (1957-1958), a coercive campaign launched by Chairman Mao Zedong against alleged critics of his rule. We find that officials who were former undercover partisans, a faction considered untrustworthy by Mao, tended to prosecute a larger fraction of alleged “rightists” in their jurisdictions and assign harsher penalties. Our study contributes to the existing literature by revealing the underlying motivation of coercive agents.</p>
+<p><br></p>
+<p>“Who Succeed Corrupt Officials? Local Leadership Replacement during China’s Anti-Corruption Campaign (2013–2020)” with Feng Tang.</p>
+<p><strong>Summary:</strong> The Anti-Corruption Campaign, launched by President Xi Jinping in late 2012, has been one of the most far-reaching bureaucratic overhaul in modern Chinese history. How does the Anti-Corruption Campaign shape the pattern of personnel appointment at the local level? In particular, what type of officials are more likely to be appointed to replace exlocal leaders removed due to corruption? In this paper, we argue that a major selection criteria for successors to corrupt officials is local detachment. Because those officials are often tasked with eliminating their predecessor’s influence and strengthening local control for the upper-level authority, they are expected to be less embedded in local power dynamics and free from nepotism and conflict of interests. Using an original dataset of all Party secretaries and mayors from China’s 287 prefecture-level cities between 2013 and 2020, we show that officials who replace corrupt local leaders are much less likely to be chosen from the same locality compared to officials whose predecessors were transferred, promoted, or retired. In addition, successors to corrupt local leaders typically spend much shorter time serving in the locality in the past, and are more likely to have held previous positions in provincial- and central-level bureaucracies. Our study sheds new light on how Xi’s Anti-Corruption Campaign reshuffles the central-local relations in China.</p>
+</div>
 </div>
 
 
@@ -373,7 +328,7 @@ Copyright © Juan Qian, 2019
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -381,6 +336,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

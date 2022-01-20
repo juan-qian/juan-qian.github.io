@@ -7,12 +7,12 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Bio"
-      href: about.html
     - text: "Research"
       href: research.html
     - text: "Teaching"
       href: teaching.html
+    - text: "Contact"
+      href: contact.html      
       
   right:
     - icon: fa-envelope fa-lg
@@ -24,5 +24,5 @@ navbar:
 
 output:
   html_document:
-    theme: simplex
+    theme: lumen
     css: 'styles.css'

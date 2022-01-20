@@ -2,35 +2,29 @@
 title: "Teaching"
 output: html_document
 ---
-Previously, I served as a Teaching Assistant or a sole instructor for various classes. I enjoyed helping my students succeed in their classes. All the material I prepared for my teaching sessions are **made public**.
-<br> <br>
 
-### As Teaching Assistant/Associate
+<br>
 
-**University of Wisconsin-Madison**, Madison, WI <br>
-[POLI120: Politics Around the World](https://polisci.wisc.edu/sites/polisci.wisc.edu/files/documents/syllabi/PS%20120%20Syllabus-%20Nils%20Ringe_0.pdf) (Fall 2018; [Spring 2019](poli120.html); [Fall 2019](poli120_fall19.html)) <br>
-Teaching Assistant for Dr. Nils Ringe and Dr. Steven Brooke
-<br>
-<br>
-**Georgetown University**, Washington, DC <br>
-[PPOL649: Intermediate Macroeconomics](/teaching_files/PPOL649_syllabus.pdf) ([Spring 2017](ppol649.html)) <br>
-Teaching Associate for Dr. Rakia Moalla-Fetini
-<br>
-<br>
-**Macalester College**, St. Paul, MN <br>
-[ASIA378: War Crimes and Memory in East Asia](https://catalog.macalester.edu/preview_course.php?catoid=21&coid=112343) (Spring 2013) <br>
-Teaching Assistant for Dr. Yue-him Tam
-<br> <br>
+#### Teaching Public Choice to Chinese Undergrads
 
+<img src="teaching.jpeg" style="width:30%; margin-right: 20px" align="left"> In the summer of 2018, I taught in Beijing's [Veritas Academy](https://www.veritaschina.org), where I introduced basic concepts of political economy and public choice to an outstanding group of Chinese high schoolers and undergrads. My course covers basic tenets of political economy; prominent public choice thinkers such as Gordon Tullock, James M. Buchanan, and Lin Ostrom; and recent theoretical advances in statebuilding and democratization research. When teaching public choice, I consider myself a purveyor of knowledge, rather than a missionary or preacher of a religion.
 
-### As Sole Instructor
-**Veritas Academy**, Beijing, China <br>
-[B1: Introduction to Political Economy](/teaching_files/PPOL649_syllabus.pdf) (Summer 2018) <br>
-**<img src="images/download.png" width="20"> Download**: [Lecture Notes](veritas2018.html) 
+I have made all lecture notes available for download (all lecture notes are written in Chinese). Please feel free to use or distribute it with proper attribution. Please let me know how I can make improvement in teaching this material.
+
 <br>
 <br>
 <br>
-<center> Copyright © Juan Qian, 2019
-<center>  I built my website with <img src="images/rstudio-logo.png" width="30"> . You should [try it](https://rmarkdown.rstudio.com/) too.
 
-
+[Lecture 1: Utility Theory; Demand and Supply; Price Theory](teaching_files/va1.pdf)
+<br>
+[Lecture 2: Theory of the Market](teaching_files/va2.pdf)
+<br>
+[Lecture 3: Corrections to Market Failure; Distribution of Public Goods; Coase Theorem](teaching_files/va3.pdf)
+<br>
+[Lecture 4: The Principle-Agent Problem; Theory of Bureacracy and Delegation](teaching_files/va4.pdf)
+<br>
+[Lecture 5: Public Choice Theories: Buchanan, Tullock, and Ostrom](teaching_files/va5.pdf)
+<br>
+[Lecture 6: Theories of State-building and Social Revolutions](teaching_files/va6.pdf)
+<br>
+[Lecture 7: Theories of Revolution, Democratization and Democratic Consolidation](teaching_files/va7.pdf)

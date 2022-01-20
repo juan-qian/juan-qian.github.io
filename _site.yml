@@ -23,6 +23,8 @@ navbar:
       href: http://github.com/juan-qian
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/juan-j-qian-09397b2a/
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/juan_qian
 
 output:
   html_document:

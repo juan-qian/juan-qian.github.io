@@ -8,9 +8,9 @@ description: |
 #### Short Bio
 <img src = "policywonk.jpg" style="width:42%; margin-right: 20px" align="right"> I graduated from [Macalester College](https://www.macalester.edu/), a small liberal arts college in Minnesota, with a dual major in history and political science. After working shortly in a [European Union business chamber](https://www.europeanchamber.com.cn/) in Shanghai, I came back to the States to pursue a [Master of Public Policy](https://mccourt.georgetown.edu/) degree at Georgetown University. Then, after spending three years soul-searching and debating whether to pursue a career as an academic or a policy wonk, I eventually decided to choose the former and came to the University of Wisconsin for my PhD in political Science.   
 
-Before finally making up my mind about an academic career, I worked variously in a [management consulting firm](https://www.guidehouse.com/), a [think tank in Washington DC](https://www.aei.org/), and a [policy research group](https://healthpolicy.duke.edu/) under a [former Bush administration official](https://healthpolicy.duke.edu/people/mark-mcclellan-md-phd). What I learned most from this experience is good common sense and skills to get along with others.
+Before finally making up my mind about an academic career, I worked variously in a [management consulting firm](https://www.guidehouse.com/), a [think tank in Washington DC](https://www.aei.org/), and a [policy advocacy group](https://healthpolicy.duke.edu/). What I learned most from this experience is good common sense and skills to get along with others.
 
-##### TL;DR: My full [CV](cv.pdf) here. For my current research, see [research page](research.html).
+##### My full [CV](cv.pdf) here. For my current research, see [research page](research.html).
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)

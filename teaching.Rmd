@@ -5,9 +5,9 @@ output: html_document
 
 <br>
 
-#### Teaching Public Choice to Chinese Undergrads
+#### Teaching Political Economy to Chinese Undergrads
 
-<img src="teaching.jpeg" style="width:30%; margin-right: 20px" align="left"> In the summer of 2018, I taught at Beijing's [Veritas Academy](https://www.veritaschina.org), where I introduced basic concepts of political economy and public choice to an outstanding group of Chinese high schoolers and undergrads. My course covers basic tenets of political economy; prominent public choice thinkers such as Gordon Tullock, James M. Buchanan, and Lin Ostrom; and recent theoretical advances in statebuilding and democratization research. When teaching public choice, I consider myself a purveyor of knowledge, rather than a missionary or preacher of a religion.
+<img src="teaching.jpeg" style="width:30%; margin-right: 20px" align="left"> In the summer of 2018, I taught at Beijing's [Veritas Academy](https://www.veritaschina.org), where I introduced basic concepts of political economy to an outstanding group of Chinese high schoolers and undergrads. My course covers basic tenets of political economy since Adam Smith and David Ricardo; prominent public choice thinkers such as Gordon Tullock, James M. Buchanan, and Lin Ostrom; and recent theoretical advances in statebuilding and democratization research. When teaching political economy, I consider myself a purveyor of knowledge, rather than a missionary or preacher of a religion.
 
 I have made all lecture notes available for download (all lecture notes are written in Chinese). Please feel free to use or distribute it with proper attribution. Please let me know how I can make improvement in teaching this material.
 

@@ -1,16 +1,16 @@
 ---
-title: "About"
+title: "Biography"
 description: |
 ---
 
 <br>
 
-#### Short Bio
-<img src = "policywonk.jpg" style="width:42%; margin-right: 20px" align="right"> I graduated from [Macalester College](https://www.macalester.edu/), a small liberal arts college in Minnesota, with a dual major in history and political science. After working shortly with a [European lobbying group](https://www.europeanchamber.com.cn/) in Shanghai, I came back to the States to pursue a [Master of Public Policy](https://mccourt.georgetown.edu/) degree at Georgetown University. Then, after spending three years soul-searching and debating whether to pursue a career as an academic or a policy wonk, I eventually decided to choose the former and came to the University of Wisconsin for my PhD in political Science.   
+<img src = "policywonk.jpg" style="width:44%; margin-right: 20px" align="left"> I graduated from [Macalester College](https://www.macalester.edu/), a small liberal arts college in Minnesota, with a dual major in history and political science. While in Minnesota I worked as a policy intern/legislative aide to several state-level politicians, including [State Senator Foung Hawj](https://www.macalester.edu/) and later, [Former Govenor Mark B. Dayton](https://en.wikipedia.org/wiki/Mark_Dayton). My duties included analysis and evaluation of state legislation that impacted Minnesota's disadvantaged ethnic communities, such as Somali, Hmong, and Lao peoples.
 
-Before finally making up my mind about an academic career, I worked variously in a [management consulting firm](https://www.guidehouse.com/), a [think tank in Washington DC](https://www.aei.org/), and a [policy advocacy group](https://healthpolicy.duke.edu/). From this real-world experience, I developed good common sense and interpersonal skills.
+I went to Washington DC in 2014 to pursue a [Master of Public Policy](https://mccourt.georgetown.edu/) degree at Georgetown University. After my graduation from Georgetown in 2016, I worked as a policy analyst/consultant with a number of think tanks and lobby firms in Washington, DC, including the [Navigant Consulting](https://guidehouse.com/), the [American Enterprise Institute](https://www.aei.org/), and the [Robert J. Margolis, MD, Center](https://healthpolicy.duke.edu/) at Duke University.
 
-##### My full [CV](cv.pdf) here. For my current research, see [research page](research.html).
+Starting in Fall 2018, I have been a PhD student in the Political Science Department, specializing in authoritarian politics with a regional focus on East Asia. My academic [CV](cv.pdf) is here. For my current research agenda, see my [research page](research.html).
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)

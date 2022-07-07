@@ -11,6 +11,15 @@ I moved to Washington DC in 2014 to pursue a [Master of Public Policy](https://m
 
 Since Fall 2018 I have been a PhD student in the Political Science Department at UW-Madison, specializing in authoritarian politics with a regional focus on East Asia. Please find my academic [CV](cv.pdf) and [research page](research.html) here.
 
+<br>
+<br>
+<br>
+<center> <img src="juan_logo.png" style="width:7.5%">
+<br>
+<center> Copyright © Juan Qian, 2021
+
+
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)

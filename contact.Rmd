@@ -16,6 +16,13 @@ Madison, WI 53706<br>
 #### Email
 [juan.qian@wisc.edu](mailto:juan.qian@wisc.edu)
 
+
+<br>
+<br>
+<br>
+<center> <img src="juan_logo.png" style="width:7.5%">
+<br>
+<center> Copyright © Juan Qian, 2021
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 

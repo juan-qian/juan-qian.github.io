@@ -1,0 +1,13 @@
+---
+title: "Dissertation"
+output: html_document
+---
+<img src="redsun.jpeg" style="width:25%; margin-right: 20px" align="left">
+My APSA-funded dissertation project, titled "[Statebuilding by Campaign: Regime Consolidation, Bureaucratic Compliance, and Political Control in Modern China](https://politicalsciencenow.com/meet-jingyuan-qian-2021-apsa-doctoral-dissertation-research-improvement-grantee/)," studies the logic of repressive campaigns in China under Mao Zedong’s rule (1949–1976). Mass purges during the Mao era were characterized by two puzzling features: first, they were geospatially uneven, with large variation in repression in- tensity across different provinces and localities. Second, they tended to be highly excessive, with their scope and magnitude of violence far beyond what was necessary to crack down political contenders in a certain region. Existing theories tended to attribute the regional disparities of state repression to structural factors, such as the state’s varying capacity to control and penetrate local society, or the different levels of popular support. However, I find this explanation to be insufficient, because it does not take into account the deliberate choice made by subordinate officials — the ones who had great personal discretion over the outcome of repression. My dissertation aims to understand the factors and incentives that shape local officials’ level of compliance to the regime’s coercive tasks during repression, and how the autocrat, correspondingly, uses repression to test and induce the loyalty and responsiveness of subordinates. The three papers in my dissertation focus on three large-scale repressive campaigns in Mao’s China respectively: the Land Reform (1949–53), the Anti-Rightist Campaign (1957–58), and the Cultural Revolution (1966– 76). I plan to defend my dissertation in the summer of 2023, and will later restructure the three papers into a book for publication.
+
+<br>
+<br>
+<br>
+<center> <img src="juan_logo.png" style="width:7.5%">
+<br>
+<center> Copyright © Juan Qian, 2021

@@ -11,8 +11,10 @@ navbar:
       href: about.html
     - text: "Dissertation"
       href: dissertation.html
-    - text: "Research"
+    - text: "Research Papers"
       href: research.html
+    - text: "Teaching"
+      href: teaching.html
     - text: "Contact"
       href: contact.html      
       

@@ -5,26 +5,50 @@ output: html_document
 
 <br>
 
-#### Teaching Political Economy to Chinese Undergrads
+#### Comparative and Chinese Politics
 
-<img src="teaching.jpeg" style="width:30%; margin-right: 20px" align="left"> In the summer of 2018, I taught at Beijing's [Veritas Academy](https://www.veritaschina.org), where I introduced basic concepts of political economy to an outstanding group of Chinese high schoolers and undergrads. My course covers basic tenets of political economy since Adam Smith and David Ricardo; prominent public choice thinkers such as Gordon Tullock, James M. Buchanan, and Lin Ostrom; and recent theoretical advances in statebuilding and democratization research. When teaching political economy, I consider myself a purveyor of knowledge, rather than a missionary or preacher of a religion.
+1. Instructor, PS 324 Political Power in Contemporary China, planned in Spring 2023 ([sample syllabus](sample_syllabus.pdf))
 
-I have made all lecture notes available for download (all lecture notes are written in Chinese). Please feel free to use or distribute it with proper attribution. Please let me know how I can make improvement in teaching this material.
+2. TA, PS 400 Chinese Politics (for [Reed Lei](https://polisci.wisc.edu/staff/lei-zhenhuan-reed/)), Fall 2020
+
+3. TA, PS 120 Politics Around the World (for [Nils Ringe](https://polisci.wisc.edu/staff/nils-ringe/) and [Steven Brooke](https://polisci.wisc.edu/staff/brooke-steven/)), Fall 2018; Spring 2019; Fall 2019
+
+4. TA, ASIA 378 War Crimes in East Asia (for [Yue-Him Tam](https://www.macalester.edu/history/facultystaff/yuehimtam/)), Spring 2013
 
 <br>
-<br>
+
+#### Economics, Game Theory, and Data Analytics
+
+1. TA, PS 348 Analysis of International Relations (for [Andy Kydd](https://polisci.wisc.edu/staff/andrew-kydd/) and [Lisa Martin](https://polisci.wisc.edu/staff/lisa-martin/)), Fall 2021, Fall 2022
+
+2. TA, PS 270 Understanding Political Numbers (for [Evan Morier](https://www.evanmorier.com/) and [Rochelle Snyder](https://rochellemsnyder.wordpress.com/)), Spring 2020, 2021
+
+3. TA, PPOL 649 Macroeconomics (for [Rakia Moalla-Fetini](https://www.linkedin.com/in/rakia-moalla-fetini-58007423b)), Spring 2017
+
 <br>
 
-[Lecture 1: Utility Theory; Demand and Supply; Price Theory](teaching_files/va1.pdf)
-<br>
-[Lecture 2: Theory of the Market](teaching_files/va2.pdf)
-<br>
-[Lecture 3: Corrections to Market Failure; Distribution of Public Goods; Coase Theorem](teaching_files/va3.pdf)
-<br>
-[Lecture 4: The Principle-Agent Problem; Theory of Bureacracy and Delegation](teaching_files/va4.pdf)
-<br>
-[Lecture 5: Public Choice Theories: Buchanan, Tullock, and Ostrom](teaching_files/va5.pdf)
-<br>
-[Lecture 6: Theories of State-building and Social Revolutions](teaching_files/va6.pdf)
-<br>
-[Lecture 7: Theories of Revolution, Democratization and Democratic Consolidation](teaching_files/va7.pdf)
+#### Chinese-Language Course in Political Economy
+
+In the summer of 2018, I taught at Beijing's [Veritas Academy](https://www.veritaschina.org), where I introduced basic concepts of political economy to an outstanding group of Chinese high schoolers and undergrads. Later, I developed a short, Chinese-language textbook from my lecture notes used for the course, aiming at Chinese college students who want to develop a preliminary knowledge of modern political economy.
+
+I have made all lecture notes available for download. Please feel free to use or distribute it with proper attribution.
+
+1. [Chapter One: Utility Theory; Demand and Supply; Price Theory](teaching_files/va1.pdf)
+
+
+2. [Chapter Two: Theory of the Market](teaching_files/va2.pdf)
+
+
+3. [Chapter Three: Corrections to Market Failure; Distribution of Public Goods; Coase Theorem](teaching_files/va3.pdf)
+
+
+4. [Chapter Four: The Principle-Agent Problem; Theory of Bureacracy and Delegation](teaching_files/va4.pdf)
+
+
+5. [Chapter Five: Public Choice Theories: Buchanan, Tullock, and Ostrom](teaching_files/va5.pdf)
+
+
+6. [Chapter Six: Theories of State-building and Social Revolutions](teaching_files/va6.pdf)
+
+
+7. [Chapter Seven: Theories of Revolution, Democratization and Democratic Consolidation](teaching_files/va7.pdf)

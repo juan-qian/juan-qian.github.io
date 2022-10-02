@@ -3,7 +3,7 @@ title: "Meet Juan Qian"
 fontsize: 12pt
 ---
 <br>
-<img src="juan.jpg" style="width:35%; margin-right: 20px" align="left">
+<img src="juan.jpg" style="width:40%; margin-right: 20px" align="left">
 Welcome. My name is Jingyuan "Juan" Qian, and I am a PhD candidate in the [Political Science Department](https://polisci.wisc.edu/) at [University of Wisconsin-Madison](https://www.wisc.edu/). My major fields are comparative politics and methodology. 
 
 My substantive research interests include political violence and repression, bureaucratic politics, and statebuilding in an authoritarian setting. At this moment, my research agenda centers around one major question: how rising autocrats induce and retain the compliance of their subordinates during their power consolidation? I use both formal models and data-driven empirical research to answer this question.

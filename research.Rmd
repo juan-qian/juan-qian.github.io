@@ -25,6 +25,7 @@ output: html_document
 **TL;DR:** Provincial Party chiefs have an anti-local bias in the appointment of local leaders in cities that previously suffered from corruption scandals.
 
 <br>
+<br>
 
 2.["The Zeal of the Outgroup: Loyalty Signaling and Bureaucratic Compliance in China’s Anti-Rightist Campaign (1957–1958),"](https://www.researchgate.net/profile/Jingyuan-Qian/publication/357181235_The_Zeal_of_the_Outgroup_Loyalty_Signaling_and_Bureaucratic_Compliance_in_China's_Anti-Rightist_Campaign_1957-1958/links/6213b988f02286737cb2985d/The-Zeal-of-the-Outgroup-Loyalty-Signaling-and-Bureaucratic-Compliance-in-Chinas-Anti-Rightist-Campaign-1957-1958.pdf) with Steve Bai. (Under Review)
 

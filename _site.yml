@@ -7,9 +7,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Short Bio"
-      href: about.html
-    - text: "Dissertation"
+    - text: "Book Project"
       href: dissertation.html
     - text: "Research Papers"
       href: research.html
@@ -30,5 +28,5 @@ navbar:
 
 output:
   html_document:
-    theme: lumen
+    theme: yeti
     css: 'styles.css'

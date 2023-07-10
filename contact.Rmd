@@ -22,7 +22,7 @@ Madison, WI 53706<br>
 <br>
 <center> <img src="juan_logo.png" style="width:7.5%">
 <br>
-<center> Copyright © Juan Qian, 2021
+<center> Copyright © Juan Qian, 2023-24
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 

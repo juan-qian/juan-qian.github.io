@@ -3,14 +3,14 @@ title: "Meet Juan Qian"
 fontsize: 12pt
 ---
 <br>
-<img src="juan2.jpg" style="width:35%; margin-right: 20px" align="left">
-Welcome. My name is Jingyuan "Juan" Qian, and I am a PhD candidate in the [Political Science Department](https://polisci.wisc.edu/) at [University of Wisconsin-Madison](https://www.wisc.edu/). My major fields are comparative politics and methodology. 
+<img src="juan2.jpg" style="width:40%; margin-right: 20px" align="left">
+Welcome! I am an [Earl S. Johnson Instructor in Political Science](https://mapss.uchicago.edu/directories/full/faculty-directory) at the University of Chicago (starting in September 2023). I recently completed my Ph.D. in Political Science from the University of Wisconsin-Madison.
 
-My substantive research interests include political violence and repression, bureaucratic politics, and statebuilding in an authoritarian setting. At this moment, my research agenda centers around one major question: how rising autocrats induce and retain the compliance of their subordinates during their power consolidation? I use both formal models and data-driven empirical research to answer this question.
+I am a comparative political scientist with a regional focus on China and East Asia. My research interests include statebuilding, elite and bureaucratic politics, and political violence in both historical and contemporary contexts. Central to my research is the fundamental question of *bureaucratic control* – how political leaders incentivize and maintain the compliance of subordinate bureaucrats in executing costly and undesirable tasks for the regime.
 
-My dissertation project, titled "Statebuilding by Campaign," explores the role of Mao's mass-mobilized political campaigns in the 1950s and 1960s on the bureaucratic norms and regime consolidation of the Chinese party-state. I have been collecting and using a wide variety of archival data to understand how Mao's mass campaigns impacted the regime's ability to penetrate and control the bureaucracy and the broader society. Gratefully, my dissertation research has been supported by [NSF-APSA Doctoral Dissertation Improvement Grant](https://politicalsciencenow.com/meet-jingyuan-qian-2021-apsa-doctoral-dissertation-research-improvement-grantee/) and [APSA Hsueh International Fellowship Fund](https://connect.apsanet.org/centennialcenter/research-grants/).
+My dissertation-based book project, titled *[Statebuilding by Campaign: Regime Consolidation and Political Control in Modern China](dissertation.html)*, studies the various tactics and mechanisms employed by the Chinese regime under Mao Zedong to motivate and control subordinate bureaucrats during major political campaigns from 1949 to 1976. My research has won several prestigious grants and awards, including [NSF-APSA Doctoral Dissertation Research Improvement Grant](https://politicalsciencenow.com/meet-jingyuan-qian-2021-apsa-doctoral-dissertation-research-improvement-grantee/), [APSA Hsueh International Fellowship Fund](https://connect.apsanet.org/centennialcenter/research-grants/), [The Oskar Morgenstern Fellowship](https://www.mercatus.org/students/oskar-morgenstern-fellowship-alumni), and [China Times Cultural Foundation Young Scholar Award](https://www.chinatimes.com/realtimenews/20211002000028-260405?chdtv). My recent papers has been published in peer-reviewed journals including *[The China Quarterly](https://doi.org/10.1017/S0305741023000644)* and *[Ethnopolitics](https://doi.org/10.1080/17449057.2021.2001954)*.
 
-Please find my [CV](cv.pdf) and a [short bio](about.html) here. 
+Please find my [CV](cv.pdf) here. 
 
 <br>
 <br>

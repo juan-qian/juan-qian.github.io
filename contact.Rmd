@@ -8,13 +8,14 @@ output: html_document
 ### Contact Me
 
 #### Address
-110 North Hall<br>
-1050 Bascom Mall<br>
-University of Wisconsin-Madison<br>
-Madison, WI 53706<br>
+1155 E. 60th Street <br>
+Office 402 <br>
+University of Chicago <br>
+Chicago, IL 60637 <br>
+<br>
 
 #### Email
-[juan.qian@wisc.edu](mailto:juan.qian@wisc.edu)
+[qianj@uchicago.edu](mailto:qianj@uchicago.edu)
 
 
 <br>

@@ -4,7 +4,7 @@ fontsize: 12pt
 ---
 <br>
 <img src="juan2.jpg" style="width:40%; margin-right: 20px" align="left">
-Welcome! I am an [Earl S. Johnson Instructor in Political Science](https://mapss.uchicago.edu/directories/full/faculty-directory) at the University of Chicago (starting in September 2023). I recently completed my Ph.D. in Political Science from the University of Wisconsin-Madison.
+Welcome! I am an [Earl S. Johnson Instructor in Political Science](https://mapss.uchicago.edu/directories/full/faculty-directory) at the University of Chicago. I recently completed my Ph.D. in Political Science from the University of Wisconsin-Madison.
 
 I am a comparative political scientist with a regional focus on China and East Asia. My research interests include statebuilding, elite and bureaucratic politics, and political violence in both historical and contemporary contexts. Central to my research is the fundamental question of *bureaucratic control* – how political leaders incentivize and maintain the compliance of subordinate bureaucrats in executing costly and undesirable tasks for the regime.
 

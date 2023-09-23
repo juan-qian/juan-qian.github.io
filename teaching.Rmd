@@ -5,7 +5,7 @@ output: html_document
 
 <br>
 
-#### Comparative and Chinese Politics
+#### **Comparative and Chinese Politics**
 
 1. Instructor of Record, PS 324 Chinese Politics, Spring 2023
 
@@ -15,7 +15,7 @@ output: html_document
 
 <br>
 
-#### Economics, Game Theory, and Data Analytics
+#### **Game Theory and Data Analytics**
 
 1. Teaching Assistant, PS 348 Analysis of International Relations, Fall 2021, Fall 2022
 

@@ -7,8 +7,6 @@ output: html_document
 
 #### **At the University of Chicago**
 
-Instructor of Record, MAPS 31804 Politics and Legacies in Mao's China, Spring 2024 [[Syllabus](syllabi/MAPS31804.pdf)]
-
 Instructor of Record, MAPS 31803 Game Theory for Political Science and Policy Analysis, Spring 2024 [[Syllabus](syllabi/MAPS31803.pdf)]
 
 Instructor of Record, PLSC 31903 Chinese Politics, Winter 2024 [[Syllabus](syllabi/PLSC31903.pdf)]

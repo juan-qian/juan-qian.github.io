@@ -4,7 +4,7 @@ fontsize: 12pt
 ---
 <br>
 <img src="juan2.jpg" style="width:30%; margin-right: 20px" align="left">
-Welcome! I am an [Earl S. Johnson Postdoctoral Instructor in Political Science](https://mapss.uchicago.edu/directory/juan-qian) at the University of Chicago. I recently completed my Ph.D. in Political Science from the University of Wisconsin-Madison. Starting Fall 2025, I will be joining the Political Science Department at Boston College as an Assistant Professor.
+Welcome! I am an [Earl S. Johnson Lecturer in Political Science](https://mapss.uchicago.edu/directory/juan-qian) at the University of Chicago. I recently completed my Ph.D. in Political Science from the University of Wisconsin-Madison. Starting Fall 2025, I will be joining the Political Science Department at Boston College as an Assistant Professor.
 
 I study bureaucratic politics, elite dynamics, and policymaking in authoritarian regimes with a regional focus on Asia. My research explores (1) how do autocrats motivate and control subordinate bureaucrats and ensure their compliance with challenging tasks? (2) What causes the geospatial variation in repression and policy implementation within an autocracy? (3) How do political violence and intergroup conflicts impact state capacity and political attitudes in short and long run?
 

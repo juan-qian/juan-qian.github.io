@@ -2,13 +2,16 @@
 title: "Meet Juan Qian"
 fontsize: 12pt
 ---
+
 <br>
 <img src="juan2.jpg" style="width:30%; margin-right: 20px" align="left">
-Welcome! I am an [Earl S. Johnson Lecturer in Political Science](https://mapss.uchicago.edu/directory/juan-qian) at the University of Chicago. I recently completed my Ph.D. in Political Science from the University of Wisconsin-Madison. Starting Fall 2025, I will be joining the Political Science Department at Boston College as an Assistant Professor.
+Welcome! I am an [Earl S. Johnson Lecturer in Political Science](https://mapss.uchicago.edu/directory/juan-qian) at the University of Chicago. I obtained my Ph.D. from the University of Wisconsin-Madison, a Master's of Public Policy from Georgetown University, and B.A. in Political Science and History from Macalester College. Starting Fall 2025, I will be joining the Political Science Department at Boston College as an Assistant Professor.
 
-I study bureaucratic politics, elite dynamics, and policymaking in authoritarian regimes with a regional focus on Asia. My research explores (1) how do autocrats motivate and control subordinate bureaucrats and ensure their compliance with challenging tasks? (2) What causes the geospatial variation in repression and policy implementation within an autocracy? (3) How do political violence and intergroup conflicts impact state capacity and political attitudes in short and long run?
+My research primarily focuses on statebuilding and regime consolidation in modern autocracies, with a regional focus on East and Inner Asia. Currently, my research revolves around three key questions: (1) how authoritarian leaders create institutions and mechanisms to manage and control subordinate bureaucrats, ensuring their compliance with the regime's policy directives; (2) how autocrats employ political violence as a means of political control, and conversely, how violence affects state capacity and citizens' political attitudes; (3) the short- and long-term effects and consequences of authoritarian statebuilding.
 
-My book manuscript, titled *[Statebuilding by Campaign: The Making and Shaking of Modern Chinese Bureaucracy](dissertation.html)*, studies the various mechanisms employed by the Chinese regime to motivate and control subordinate bureaucrats during major political and policy campaigns from 1949 to 1976. Additionally, my works on Chinese politics have been published in *[Comparative Politics](https://doi.org/10.5129/001041524X17069685289697)*, *[The China Quarterly](https://doi.org/10.1017/S0305741023000644)*, *[Ethnopolitics](https://doi.org/10.1080/17449057.2021.2001954)*, and *[The Routledge Handbook in Anti-Corruption Research](https://juan-qian.github.io/Qian_Tang_Chapter.pdf)*. For more information on my research, please find my [CV](cv.pdf) here. 
+My book manuscript, titled *[Statebuilding by Campaign: The Making of Modern Chinese Bureaucracy, 1949-76](dissertation.html)*, studies the various mechanisms employed by the Chinese regime under Mao Zedong to motivate and control subordinate bureaucrats during the first three decades of the People's Republic. Additionally, my works on Chinese politics have been published in *[Comparative Politics](https://doi.org/10.5129/001041524X17069685289697)*, *[The China Quarterly](https://doi.org/10.1017/S0305741023000644)*, *[Ethnopolitics](https://doi.org/10.1080/17449057.2021.2001954)*, and *[The Routledge Handbook in Anti-Corruption Research](https://juan-qian.github.io/Qian_Tang_Chapter.pdf)*. 
+
+For more information on my research work, please find my [CV](cv.pdf) here. 
 
 <br>
 <br>
@@ -28,4 +31,3 @@ knitr::opts_chunk$set(echo = TRUE)
 # https://rstudio.github.io/distill/website.html
 
 ```
-

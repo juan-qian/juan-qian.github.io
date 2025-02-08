@@ -32,23 +32,32 @@ output: html_document
 <br>
 <br>
 
-#### **b. Working Papers (available upon request)**
+#### **b. Working Papers**
 
-3."Radicalization by Design: Factional Cleavages and Bureaucratic Compliance during China’s Land Reform Campaign (1949-54)"
+3."The Anxiety of Embedded Officials: Local Connections and Bureaucratic Responsiveness during China's Campaign Against Organized Crimes (2018-20)" (*revise and resubmit*, with [Feng Tang](http://sir.uibe.edu.cn/szdw/zzxx/tf/index.htm))
+
+**Synposis:** In this article, we analyze how local ties could impact an official’s compliance and responsiveness to policy priorities from higher authorities. We argue that, when the policy both has high priority and conflicts with local vested interests, locally embedded officials would face stronger pressure to display loyalty to their superiors and dispel suspicions of colluding with local elites targeted by the policy. We use the three-year Anti-Gang Campaign in China (2018-20) to validate our theory.
+
+<br>
+
+2."Radicalization by Design: Factional Cleavages and Bureaucratic Compliance during China’s Land Reform Campaign (1949-54)"
 
 **Synposis:** In this paper, I explore how autocrats incentivize subordinate officials to carry out undesirable or unpopular tasks by *leveraging factional divisions and power struggles* at the sub-national level. Using China's Land Reform Campaign (1949-54) as a case, I demonstrate how Beijing strategically create factional divisions within sub-national bureaucracy, intensify intra-group competition among local elites, and induce local officials' compliance with the Center's agenda.
 
 <br>
 
-2."Coercion, Capital, and Warlord Proto-States: Variation in Warmaking Propensity among Chinese Warlords, 1916–1928" (with [Siying Fu](https://sociology.wisc.edu/staff/fu-siying/))
+1."Coercion, Capital, and Warlord Proto-States: Variation in Warmaking Propensity among Chinese Warlords, 1916–1928" (with [Siying Fu](https://sociology.wisc.edu/staff/fu-siying/))
 
 **Synposis:** In a weak state, why are some sub-national actors more likely to engage in civil wars than others? In this paper, we use the Warlord Era (1916-28) in China to explore underlying determinants that shaped sub-national rulers' propensity to engage in conflicts. We show that a crucial factor was the warlords' relationship with the commercial elite --- local military rulers who were *more fiscally dependent* on the urban business community were less likely to engage in belligerent behavior.
 
 <br>
+<br>
 
-1."The Anxiety of Embedded Officials: Local Connections and Bureaucratic Responsiveness during China's Campaign Against Organized Crimes (2018-20)" (with [Feng Tang](http://sir.uibe.edu.cn/szdw/zzxx/tf/index.htm))
+#### **c. Book Reviews**
 
-**Synposis:** In this article, we analyze how local ties could impact an official’s compliance and responsiveness to policy priorities from higher authorities. We argue that, when the policy both has high priority and conflicts with local vested interests, locally embedded officials would face stronger pressure to display loyalty to their superiors and dispel suspicions of colluding with local elites targeted by the policy. We use the three-year Anti-Gang Campaign in China (2018-20) to validate our theory.
+1."[Review of Steven P. Feldman, *Xi Jinping's Anticorruption Campaign: The Politics of Revenge*.](https://doi.org/10.1177/00943061241269350h)" 2024. *Contemporary Sociology: A Journal of Reviews* 53(5): 422-424.
+
+**Synposis:** In this article, I reviewed Steven Feldman's new book *Xi Jinping's Anticorruption Campaign: The Politics of Revenge,* summarized its main ideas and findings, and discussed its strengths and weaknesses.
 
 
 <br>

@@ -1,9 +1,9 @@
 name: "Juan Qian"
-title: "PhD Student at UW-Madison"
+title: "Political Scientist of East Asia"
 description: |
 output_dir: "."
 navbar:
-  title: "Juan (Jingyuan) Qian"
+  title: "Jingyuan (Juan) Qian"
   left:
     - text: "Home"
       href: index.html
@@ -22,9 +22,9 @@ navbar:
     - icon: fa-github fa-lg
       href: http://github.com/juan-qian
     - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/juan-j-qian-09397b2a/
+      href: https://www.linkedin.com/in/jingyuan-juan-qian-09397b2a/
     - icon: fa-twitter fa-lg
-      href: https://twitter.com/juan_qian
+      href: https://bsky.app/profile/juan-qian.bsky.social
 
 output:
   html_document:

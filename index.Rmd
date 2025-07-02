@@ -1,15 +1,17 @@
 ---
-title: "Meet Juan Qian"
+title: "Jingyuan Qian"
 fontsize: 12pt
 ---
 
 <br>
 <img src="juan2.jpg" style="width:30%; margin-right: 20px" align="left">
-Welcome! I am an [Earl S. Johnson Lecturer in Political Science](https://mapss.uchicago.edu/directory/juan-qian) at the University of Chicago. I obtained my Ph.D. from the University of Wisconsin-Madison, a Master's of Public Policy from Georgetown University, and B.A. in Political Science and History from Macalester College. Starting Fall 2025, I will be joining the Political Science Department at Boston College as an Assistant Professor.
+Welcome! I am a newly appointed Assistant Professor in the [Department of Political Science](https://www.bc.edu/bc-web/schools/morrissey/departments/political-science.html) at [Boston College](https://www.bc.edu/), starting in July 2025.
+
+I obtained my Ph.D. in Political Science from the [University of Wisconsin-Madison](https://polisci.wisc.edu/) in 2023, a Master’s of Public Policy from [Georgetown University](https://mccourt.georgetown.edu/) in 2016, and B.A. in Political Science and History from [Macalester College](https://www.macalester.edu/political-science/) in 2014. Before joining Boston College, I was an Earl S. Johnson Lecturer of Political Science at the [University of Chicago](https://mapss.uchicago.edu/) (2023-25).
 
 My research primarily focuses on statebuilding and regime consolidation in modern autocracies, with a regional focus on East and Inner Asia. Currently, my research revolves around three key questions: (1) how authoritarian leaders create institutions and mechanisms to manage and control subordinate bureaucrats, ensuring their compliance with the regime's policy directives; (2) how autocrats employ political violence as a means of political control, and conversely, how violence affects state capacity and citizens' political attitudes; (3) the short- and long-term effects and consequences of authoritarian statebuilding.
 
-My book manuscript, titled *[Statebuilding by Campaign: The Making of Modern Chinese Bureaucracy, 1949-76](dissertation.html)*, studies the various mechanisms employed by the Chinese regime under Mao Zedong to motivate and control subordinate bureaucrats during the first three decades of the People's Republic. Additionally, my works on Chinese politics have been published in *[Comparative Politics](https://doi.org/10.5129/001041524X17069685289697)*, *[The China Quarterly](https://doi.org/10.1017/S0305741023000644)*, *[Ethnopolitics](https://doi.org/10.1080/17449057.2021.2001954)*, and *[The Routledge Handbook in Anti-Corruption Research](https://juan-qian.github.io/Qian_Tang_Chapter.pdf)*. 
+My book manuscript, titled *[Statebuilding by Campaign: The Making of Modern Chinese Bureaucracy, 1949-76](dissertation.html)*, studies the various mechanisms employed by the Chinese regime under Mao Zedong to motivate and control subordinate bureaucrats during the first three decades of the People's Republic. Additionally, my works on Chinese politics have been published in *[Comparative Politics](https://doi.org/10.5129/001041524X17069685289697)*, *[The China Quarterly](https://doi.org/10.1017/S0305741023000644)*, *[Ethnopolitics](https://doi.org/10.1080/17449057.2021.2001954)*, and *[The Routledge Handbook in Anti-Corruption Research and Practice](http://doi.org/10.4324/9781003303275-45)*. 
 
 For more information on my research work, please find my [CV](cv.pdf) here. 
 

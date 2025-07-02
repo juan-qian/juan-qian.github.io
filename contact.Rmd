@@ -8,14 +8,14 @@ output: html_document
 <br>
 
 #### **Address**
-1155 E. 60th Street <br>
-Office 402 <br>
-University of Chicago <br>
-Chicago, IL 60637 <br>
+McGuinn Hall <br>
+Boston College <br>
+140 Beacon Street <br>
+Chestnut Hill, MA 02467 <br>
 <br>
 
 #### **Email**
-[qianj@uchicago.edu](mailto:qianj@uchicago.edu)
+[qianjl@bc.edu](mailto:qianjl@bc.edu)
 <br>
 <br>
 

@@ -1,5 +1,5 @@
 ---
-title: "Jingyuan Qian"
+title: "About Me"
 fontsize: 12pt
 ---
 
@@ -14,6 +14,8 @@ My research focuses on statebuilding and political institutions in modern autocr
 My book manuscript, titled *[Statebuilding by Campaign: The Making of Modern Chinese Bureaucracy, 1949-76](dissertation.html)*, studies the various mechanisms employed by the Chinese regime under Mao Zedong to motivate and control subordinate bureaucrats during the first three decades of the People's Republic. Additionally, my works on Chinese politics have been published in *[Comparative Politics](https://doi.org/10.5129/001041524X17069685289697)*, *[The China Quarterly](https://doi.org/10.1017/S0305741023000644)*, *[Ethnopolitics](https://doi.org/10.1080/17449057.2021.2001954)*, and *[The Routledge Handbook in Anti-Corruption Research and Practice](http://doi.org/10.4324/9781003303275-45)*. 
 
 For more information on my research work, please find my [CV](cv.pdf) here. 
+
+***About my name:** I use my official name, Jingyuan Qian, in academic and formal contexts. In daily life and non-academic settings, I go by "Juan" (pronounced in the Spanish way), a nickname given to me by others in college that has stuck ever since.*
 
 <br>
 <br>

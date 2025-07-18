@@ -1,37 +1,39 @@
 ---
-title: "About Me"
-fontsize: 12pt
+title: "Jingyuan (Juan) Qian"
+image: "juan2.jpg"
+links:
+  - label: CV
+    url: "cv.pdf" 
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/jingyuan-juan-qian-09397b2a/"
+  - label: GitHub
+    url: "https://github.com/juan-qian"
+  - label: Email
+    url: "mailto:jingyuan.qian@bc.edu"
+output:
+  postcards::trestles
 ---
+ 
+## Bio
 
-<br>
-<img src="juan2.jpg" style="width:30%; margin-right: 20px" align="left">
 Welcome! I am a newly appointed Assistant Professor in the [Department of Political Science](https://www.bc.edu/bc-web/schools/morrissey/departments/political-science.html) at [Boston College](https://www.bc.edu/), starting in July 2025.
-
-I obtained my Ph.D. in Political Science from the [University of Wisconsin](https://polisci.wisc.edu/) in 2023, a Master’s of Public Policy from [Georgetown University](https://mccourt.georgetown.edu/) in 2016, and B.A. in Political Science from [Macalester College](https://www.macalester.edu/political-science/) in 2014. Before joining BC, I was Earl S. Johnson Lecturer of Political Science at the [University of Chicago](https://mapss.uchicago.edu/) (2023-25).
 
 My research focuses on statebuilding and political institutions in modern autocracies, with a regional emphasis on East and Inner Asia. I examine how authoritarian leaders design institutions and mechanisms to manage and control local and subordinate bureaucrats, ensuring compliance with the regime’s policy agenda. I also study the short- and long-term effects of authoritarian political institutions on regime stability, socioeconomic outcomes, and citizens’ political attitudes.
 
-My book manuscript, titled *[Statebuilding by Campaign: The Making of Modern Chinese Bureaucracy, 1949-76](dissertation.html)*, studies the various mechanisms employed by the Chinese regime under Mao Zedong to motivate and control subordinate bureaucrats during the first three decades of the People's Republic. Additionally, my works on East Asian politics have been published in *[Comparative Politics](https://doi.org/10.5129/001041524X17069685289697)*, *[The China Quarterly](https://doi.org/10.1017/S0305741023000644)*, *[Ethnopolitics](https://doi.org/10.1080/17449057.2021.2001954)*, and *[The Routledge Handbook in Anti-Corruption Research and Practice](http://doi.org/10.4324/9781003303275-45)*. 
+My book manuscript, titled *Statebuilding by Campaign: The Making of Modern Chinese Bureaucracy, 1949-76*, studies the various mechanisms employed by the Chinese regime under Mao Zedong to motivate and control subordinate bureaucrats during the first three decades of the People's Republic. Additionally, my works on East Asian politics have been published in *[Comparative Politics](https://doi.org/10.5129/001041524X17069685289697)*, *[The China Quarterly](https://doi.org/10.1017/S0305741023000644)*, *[Ethnopolitics](https://doi.org/10.1080/17449057.2021.2001954)*, and *[The Routledge Handbook in Anti-Corruption Research and Practice](http://doi.org/10.4324/9781003303275-45)*. 
 
-For more information on my research work, please find my [CV](cv.pdf) here. 
+## Education
 
+Ph.D. in Political Science, **University of Wisconsin-Madison** | 2018 - 23
 
+Master of Public Policy, **Georgetown University** | 2014 - 16
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<center> <img src="juan_logo.png" style="width:7.5%">
-<br>
-<center> Copyright © Juan Qian, 2023-24
+B.A. in Political Science, **Macalester College** | 2010 - 14
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+## Academic Employment
 
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
+Assistant Professor in Political Science, **Boston College** | 2025 - Present
 
-```
+Earl Johnson Lecturer in Political Science, **University of Chicago** | 2023 - 2025
+
+Associate in Research, **Duke University** |  2016 - 2018

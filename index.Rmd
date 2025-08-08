@@ -1,5 +1,5 @@
 ---
-title: "Jingyuan (Juan) Qian"
+title: "Jingyuan Qian"
 image: "juan2.jpg"
 links:
   - label: CV
@@ -16,11 +16,13 @@ output:
  
 ## Bio
 
-Welcome! I am a newly appointed Assistant Professor in the [Department of Political Science](https://www.bc.edu/bc-web/schools/morrissey/departments/political-science.html) at [Boston College](https://www.bc.edu/), starting in July 2025.
+Welcome! My name is Jingyuan "Juan" Qian, and I am an Assistant Professor in the [Department of Political Science](https://www.bc.edu/bc-web/schools/morrissey/departments/political-science.html) at [Boston College](https://www.bc.edu/).
 
-My research focuses on statebuilding and political institutions in modern autocracies, with a regional emphasis on East and Inner Asia. I examine how authoritarian leaders design institutions and mechanisms to manage and control local and subordinate bureaucrats, ensuring compliance with the regime’s policy agenda. I also study the short- and long-term effects of authoritarian political institutions on regime stability, socioeconomic outcomes, and citizens’ political attitudes.
+My research focuses on statebuilding and political institutions in modern non-democratic regimes, with a regional emphasis on China and East Asia. I examine how authoritarian leaders design institutions and mechanisms to monitor and control local and subordinate bureaucrats, and to ensure their compliance with the regime’s policy agenda. I also study the short- and long-term effects of authoritarian political institutions on regime stability, socioeconomic outcomes, and citizens’ political attitudes..
 
-My book manuscript, titled *Statebuilding by Campaign: The Making of Modern Chinese Bureaucracy, 1949-76*, studies the various mechanisms employed by the Chinese regime under Mao Zedong to motivate and control subordinate bureaucrats during the first three decades of the People's Republic. Additionally, my works on East Asian politics have been published in *[Comparative Politics](https://doi.org/10.5129/001041524X17069685289697)*, *[The China Quarterly](https://doi.org/10.1017/S0305741023000644)*, *[Ethnopolitics](https://doi.org/10.1080/17449057.2021.2001954)*, and *[The Routledge Handbook in Anti-Corruption Research and Practice](http://doi.org/10.4324/9781003303275-45)*. 
+My book manuscript, titled *Statebuilding by Campaign: The Making of Modern Chinese Bureaucracy, 1949-76*, studies the various mechanisms employed by the Chinese regime under Chairman Mao Zedong to motivate and control subordinate bureaucrats during the first three decades of the People's Republic. Additionally, my works on East Asian politics have been published in *[Comparative Politics](https://doi.org/10.5129/001041524X17069685289697)*, *[The China Quarterly](https://doi.org/10.1017/S0305741023000644)*, *[Ethnopolitics](https://doi.org/10.1080/17449057.2021.2001954)*, and *[The Routledge Handbook in Anti-Corruption Research and Practice](http://doi.org/10.4324/9781003303275-45)*. 
+
+As an educator, I teach courses in Chinese politics, comparative politics, statebuilding in East Asia, and formal theory. My interviews and commentaries have been featured in major English- and Chinese-language media outlets, including [Bloomberg TV](https://www.bloomberg.com/live), *[The Atlantic](https://www.theatlantic.com/)*, *[South China Morning Post](https://www.scmp.com/)*, *[Made in China Journal](https://madeinchinajournal.com/)*, and *[Initium Media](https://theinitium.com/)*.
 
 ## Education
 
